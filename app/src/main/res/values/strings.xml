@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextToSpeech &amp; SpeechRecognizer</string>
+    <string-array name="matkul">
+        <item>PPKN</item>
+        <item>Agama Islam</item>
+        <item>PPL</item>
+        <item>MPPL</item>
+        <item>Algoritma</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='TextToSpeech & SpeechRecognizer'
+include ':app'
